@@ -18,5 +18,5 @@ Show connected phones:
 CLI> sip show peers
 ```
 
-Type 12 on salon phone to call bureau phone
-Type 11 on bureau phone to call salon phone
+* Type 12 on salon phone to call bureau phone
+* Type 11 on bureau phone to call salon phone
